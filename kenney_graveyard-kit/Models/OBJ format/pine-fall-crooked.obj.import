@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dum801thjh1np"
+path="res://.godot/imported/pine-fall-crooked.obj-fadd81180377a3f0b1cec1be5dffbec7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pine-fall-crooked.obj-fadd81180377a3f0b1cec1be5dffbec7.mesh"]
+
+source_file="res://kenney_graveyard-kit/Models/OBJ format/pine-fall-crooked.obj"
+dest_files=["res://.godot/imported/pine-fall-crooked.obj-fadd81180377a3f0b1cec1be5dffbec7.mesh", "res://.godot/imported/pine-fall-crooked.obj-fadd81180377a3f0b1cec1be5dffbec7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

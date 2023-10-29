@@ -1,0 +1,32 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://dpqvlbbcvy448"
+path="res://.godot/imported/pillar-obelisk.fbx-4b58eb9c180545e0941f3a4254ff8408.scn"
+
+[deps]
+
+source_file="res://kenney_graveyard-kit/Models/FBX format/pillar-obelisk.fbx"
+dest_files=["res://.godot/imported/pillar-obelisk.fbx-4b58eb9c180545e0941f3a4254ff8408.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={}
+gltf/embedded_image_handling=1

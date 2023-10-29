@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://duqg25ktssdwi"
+path="res://.godot/imported/character-vampire.obj-e96c00f87867d17d2dcf97d7567c2aaa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/character-vampire.obj-e96c00f87867d17d2dcf97d7567c2aaa.mesh"]
+
+source_file="res://kenney_graveyard-kit/Models/OBJ format/character-vampire.obj"
+dest_files=["res://.godot/imported/character-vampire.obj-e96c00f87867d17d2dcf97d7567c2aaa.mesh", "res://.godot/imported/character-vampire.obj-e96c00f87867d17d2dcf97d7567c2aaa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
